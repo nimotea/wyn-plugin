@@ -1,0 +1,6 @@
+[submodule "input-slicer"]
+	path = input-slicer
+	url = https://github.com/nimotea/wyn-input-slicer-plugin.git
+[submodule "bootstrapTable"]
+	path = bootstrapTable
+	url = https://github.com/nimotea/wyn-bootstrapTable-plugin.git
